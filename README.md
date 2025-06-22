@@ -6,12 +6,15 @@
 ---
 
 <h2 align="center">✨ ABOUT ME ✨</h2>
-
-🔭 I'm Vy Bùi — an aspiring **Fullstack Developer** passionate about crafting both powerful backends and stunning frontends.  
-🌱 Currently exploring: **Next.js**, **NestJS**, and **Spring Boot Microservices**  
-🎯 I'm driven by real-world problem solving, clean architecture, and building scalable web applications.  
-📫 Contact me:
-
+<h3 align="center">🔭 INTRODUCTION 🔭</h3>
+<br/>
+<p align="center">
+  I'm Vy Bùi — an aspiring <strong>Fullstack Developer</strong> passionate about crafting both powerful backends and stunning frontends.  
+  <br/>
+  Currently exploring: <strong>Next.js</strong>, <strong>NestJS</strong> and <strong>Spring Boot Microservices</strong>  
+</p>
+<h3 align="center">📫 CONTACT 📫</h3>
+<br/>
 <p align="center">
   <a href="mailto:vybuoi0904@gmail.com">
     <img src="https://img.shields.io/badge/Email-vybuoi0904@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -25,7 +28,7 @@
 
 <h2 align="center">⚙️ TECHSTACK ⚙️</h2>
 
-<h3 align="center">💡 Programming Languages 💡</h3>
+<h3 align="center">💡 PROGRAMMING LANGUAGES 💡</h3>
 <br/>
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
@@ -36,7 +39,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-<h3 align="center">🧩 Frontend 🧩</h3>
+<h3 align="center">🧩 FRONTEND 🧩</h3>
 <br/>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -47,7 +50,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-<h3 align="center">🔧 Backend 🔧</h3>
+<h3 align="center">🔧 BACKEND 🔧</h3>
 <br/>
 <p align="center">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
@@ -55,7 +58,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
-<h3 align="center">🗃️ Databases 🗃️</h3>
+<h3 align="center">🗃️ DATABASES 🗃️</h3>
 <br/>
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -64,7 +67,7 @@
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-<h3 align="center">⚙️ Tools & DevOps ⚙️</h3>
+<h3 align="center">⚙️ TOOLS & DEVOPS ⚙️</h3>
 <br/>
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
