@@ -1,125 +1,91 @@
-<!-- Hiệu ứng typing -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Vy+Bui+%F0%9F%91%8B;A+Passionate+Fullstack+Developer" />
-</h1>
-
-<!-- Thêm animation vui nhộn -->
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" height="80"/>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="80"/>
-</p>
-
----
-
-## ✨ About Me
-
-🔭 I'm Vy Bùi — an aspiring **Fullstack Developer** passionate about crafting both powerful backends and stunning frontends.  
-🌱 Currently exploring: **Next.js**, **NestJS**, and **Spring Boot Microservices**  
-🎯 I'm driven by real-world problem solving, clean architecture, and building scalable web applications.
-
----
-
 ## ⚙️ Tech Stack
 
-<div align="center">
-
-### 💡 Programming Languages  
-<div style="display: inline-block; padding: 8px; margin: 5px; background-color: #f1f1f1; border-radius: 10px; text-align: center; transition: 0.3s; width: 120px; color: #333;">
-  <img src="https://skillicons.dev/icons?i=c" width="40" />  
-  <div style="font-weight: bold; color: #333;">C</div>
-</div>
-
-<div style="display: inline-block; padding: 8px; margin: 5px; background-color: #e7e7e7; border-radius: 10px; text-align: center; transition: 0.3s; width: 120px; color: #333;">
-  <img src="https://skillicons.dev/icons?i=cpp" width="40" />  
-  <div style="font-weight: bold; color: #333;">C++</div>
-</div>
-
-<div style="display: inline-block; padding: 8px; margin: 5px; background-color: #f8e7c4; border-radius: 10px; text-align: center; transition: 0.3s; width: 120px; color: #333;">
-  <img src="https://skillicons.dev/icons?i=java" width="40" />  
-  <div style="font-weight: bold; color: #333;">Java</div>
-</div>
-
-<div style="display: inline-block; padding: 8px; margin: 5px; background-color: #ffed94; border-radius: 10px; text-align: center; transition: 0.3s; width: 120px; color: #333;">
-  <img src="https://skillicons.dev/icons?i=py" width="40" />  
-  <div style="font-weight: bold; color: #333;">Python</div>
-</div>
-
-<div style="display: inline-block; padding: 8px; margin: 5px; background-color: #f0f0f0; border-radius: 10px; text-align: center; transition: 0.3s; width: 120px; color: #333;">
-  <img src="https://skillicons.dev/icons?i=ts" width="40" />  
-  <div style="font-weight: bold; color: #333;">TypeScript</div>
-</div>
-
-<div style="display: inline-block; padding: 8px; margin: 5px; background-color: #bde0fe; border-radius: 10px; text-align: center; transition: 0.3s; width: 120px; color: #333;">
-  <img src="https://skillicons.dev/icons?i=js" width="40" />  
-  <div style="font-weight: bold; color: #333;">JavaScript</div>
-</div>
-
-<br/><br/>
-
-### 🧩 Frontend  
-<div style="display: inline-block; padding: 8px; margin: 5px; background-color: #f6f9fc; border-radius: 10px; text-align: center; transition: 0.3s; width: 120px; color: #333;">
-  <img src="https://skillicons.dev/icons?i=html" width="40" />  
-  <div style="font-weight: bold; color: #333;">HTML</div>
-</div>
-
-<div style="display: inline-block; padding: 8px; margin: 5px; background-color: #f7f9f9; border-radius: 10px; text-align: center; transition: 0.3s; width: 120px; color: #333;">
-  <img src="https://skillicons.dev/icons?i=css" width="40" />  
-  <div style="font-weight: bold; color: #333;">CSS</div>
-</div>
-
-<div style="display: inline-block; padding: 8px; margin: 5px; background-color: #38bdf8; border-radius: 10px; text-align: center; transition: 0.3s; width: 120px; color: #333;">
-  <img src="https://skillicons.dev/icons?i=tailwind" width="40" />  
-  <div style="font-weight: bold; color: #333;">Tailwind CSS</div>
-</div>
-
-<div style="display: inline-block; padding: 8px; margin: 5px; background-color: #61dafb; border-radius: 10px; text-align: center; transition: 0.3s; width: 120px; color: #333;">
-  <img src="https://skillicons.dev/icons?i=react" width="40" />  
-  <div style="font-weight: bold; color: #333;">ReactJS</div>
-</div>
-
-<div style="display: inline-block; padding: 8px; margin: 5px; background-color: #000000; border-radius: 10px; text-align: center; transition: 0.3s; width: 120px; color: #fff;">
-  <img src="https://skillicons.dev/icons?i=nextjs" width="40" />  
-  <div style="font-weight: bold; color: #fff;">Next.js</div>
-</div>
-
-<div style="display: inline-block; padding: 8px; margin: 5px; background-color: #f5f5f5; border-radius: 10px; text-align: center; transition: 0.3s; width: 120px; color: #333;">
-  <img src="https://skillicons.dev/icons?i=figma" width="40" />  
-  <div style="font-weight: bold; color: #333;">Figma</div>
-</div>
-
-<!-- Hover effect: Color change on hover -->
-<style>
-  div:hover {
-    background-color: #4f83cc;
-    color: white;
-    transition: 0.3s;
-  }
-</style>
-
-</div>
-
----
-
-## 📊 GitHub Stats
+### 💡 Programming Languages
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VyBui13&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VyBui13&layout=compact&theme=radical" />
+  <img src="https://skillicons.dev/icons?i=c" height="24" style="vertical-align: middle; margin-right: 6px;" />
+  <strong style="margin-right: 12px;">C</strong>
+
+  <img src="https://skillicons.dev/icons?i=cpp" height="24" style="vertical-align: middle; margin-right: 6px;" />
+  <strong style="margin-right: 12px;">C++</strong>
+
+  <img src="https://skillicons.dev/icons?i=java" height="24" style="vertical-align: middle; margin-right: 6px;" />
+  <strong style="margin-right: 12px;">Java</strong>
+
+  <img src="https://skillicons.dev/icons?i=py" height="24" style="vertical-align: middle; margin-right: 6px;" />
+  <strong style="margin-right: 12px;">Python</strong>
+
+  <img src="https://skillicons.dev/icons?i=js" height="24" style="vertical-align: middle; margin-right: 6px;" />
+  <strong style="margin-right: 12px;">JavaScript</strong>
+
+  <img src="https://skillicons.dev/icons?i=ts" height="24" style="vertical-align: middle; margin-right: 6px;" />
+  <strong>TypeScript</strong>
 </p>
 
+### 🧩 Frontend
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VyBui13&theme=radical&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=html" height="24" style="vertical-align: middle; margin-right: 6px;" />
+  <strong style="margin-right: 12px;">HTML</strong>
+
+  <img src="https://skillicons.dev/icons?i=css" height="24" style="vertical-align: middle; margin-right: 6px;" />
+  <strong style="margin-right: 12px;">CSS</strong>
+
+  <img src="https://skillicons.dev/icons?i=tailwind" height="24" style="vertical-align: middle; margin-right: 6px;" />
+  <strong style="margin-right: 12px;">Tailwind</strong>
+
+  <img src="https://skillicons.dev/icons?i=react" height="24" style="vertical-align: middle; margin-right: 6px;" />
+  <strong style="margin-right: 12px;">ReactJS</strong>
+
+  <img src="https://skillicons.dev/icons?i=nextjs" height="24" style="vertical-align: middle; margin-right: 6px;" />
+  <strong style="margin-right: 12px;">Next.js</strong>
+
+  <img src="https://skillicons.dev/icons?i=figma" height="24" style="vertical-align: middle; margin-right: 6px;" />
+  <strong>Figma</strong>
 </p>
 
----
-
-## 📫 Contact Me
-
-- 📧 Email: [vybuoi0904@gmail.com](mailto:vybuoi0904@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/vỹ-bùi](https://www.linkedin.com/in/v%E1%BB%B9-b%C3%B9i-undefined-719950273/)
-
----
+### 🔧 Backend & Frameworks
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=120&section=footer"/>
+  <img src="https://skillicons.dev/icons?i=spring" height="24" style="vertical-align: middle; margin-right: 6px;" />
+  <strong style="margin-right: 12px;">Spring Boot</strong>
+
+  <img src="https://skillicons.dev/icons?i=nestjs" height="24" style="vertical-align: middle; margin-right: 6px;" />
+  <strong style="margin-right: 12px;">NestJS</strong>
+
+  <img src="https://skillicons.dev/icons?i=nodejs" height="24" style="vertical-align: middle; margin-right: 6px;" />
+  <strong>Node.js</strong>
+</p>
+
+### 🗃️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" height="24" style="vertical-align: middle; margin-right: 6px;" />
+  <strong style="margin-right: 12px;">MySQL</strong>
+
+  <img src="https://skillicons.dev/icons?i=postgres" height="24" style="vertical-align: middle; margin-right: 6px;" />
+  <strong style="margin-right: 12px;">PostgreSQL</strong>
+
+  <img src="https://skillicons.dev/icons?i=mongodb" height="24" style="vertical-align: middle; margin-right: 6px;" />
+  <strong style="margin-right: 12px;">MongoDB</strong>
+
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="24" style="vertical-align: middle; margin-left: 6px;" />
+</p>
+
+### ⚙️ Tools & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker" height="24" style="vertical-align: middle; margin-right: 6px;" />
+  <strong style="margin-right: 12px;">Docker</strong>
+
+  <img src="https://skillicons.dev/icons?i=github" height="24" style="vertical-align: middle; margin-right: 6px;" />
+  <strong style="margin-right: 12px;">GitHub</strong>
+
+  <img src="https://skillicons.dev/icons?i=git" height="24" style="vertical-align: middle; margin-right: 6px;" />
+  <strong style="margin-right: 12px;">Git</strong>
+
+  <img src="https://skillicons.dev/icons?i=vercel" height="24" style="vertical-align: middle; margin-right: 6px;" />
+  <strong style="margin-right: 12px;">Vercel</strong>
+
+  <img src="https://img.shields.io/badge/Render-2D3748?style=for-the-badge&logo=render&logoColor=white" height="24" style="vertical-align: middle; margin-left: 6px;" />
 </p>
