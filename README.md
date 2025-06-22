@@ -1,29 +1,7 @@
-<!-- Tiêu đề chính với hiệu ứng màu RGB -->
-<p align="center">
-  <svg viewBox="0 0 1000 60">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-      style="font-family: 'Fira Code', monospace; font-size: 28px; font-weight: bold; fill: url(#gradient)">
-      Hi, I'm Vy Bùi — Fullstack Developer
-    </text>
-    <defs>
-      <linearGradient id="gradient">
-        <stop offset="0%" stop-color="#ff00c8">
-          <animate attributeName="stop-color" values="#ff00c8;#00ffee;#ff00c8" dur="6s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="100%" stop-color="#00ffee">
-          <animate attributeName="stop-color" values="#00ffee;#ff00c8;#00ffee" dur="6s" repeatCount="indefinite" />
-        </stop>
-      </linearGradient>
-    </defs>
-  </svg>
-</p>
-
-<!-- Animation vui nhộn -->
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" height="80"/>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="80"/>
-</p>
-
+<!-- Hiệu ứng typing -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Vy+Bui+%F0%9F%91%8B;A+Passionate+Fullstack+Developer" />
+</h1>
 ---
 
 <h2 align="center">✨ About Me ✨</h2>
