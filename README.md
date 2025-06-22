@@ -2,6 +2,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Vy+Bui+%F0%9F%91%8B;A+Passionate+Fullstack+Developer" />
 </h1>
+
 ---
 
 <h2 align="center">✨ About Me ✨</h2>
@@ -77,13 +78,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VyBui13&layout=compact&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VyBui13&theme=radical&hide_border=true" />
-</p>
-
 ---
 
-<h2 align="center">🐍 Contribution Snake Animation 🐍</h2>
+<h2 align="center">🐍 Contribution 🐍</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/VyBui13/VyBui13/output/github-contribution-grid-snake.svg" />
