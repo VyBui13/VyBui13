@@ -3,8 +3,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Vy+Bui+%F0%9F%91%8B;A+Passionate+Fullstack+Developer" />
 </h1>
 
+<!-- Thêm animation vui nhộn -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VyBui13&label=Profile%20views&color=0e75b6&style=flat" alt="VyBui13" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" height="80"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="80"/>
 </p>
 
 ---
@@ -19,31 +21,51 @@
 
 ## ⚙️ Tech Stack
 
-### 💡 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,ts,js" />
-</p>
+<div align="center">
 
-### 🧩 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,figma" />
-</p>
+### 💡 Programming Languages  
+<img src="https://skillicons.dev/icons?i=c" /> C &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=cpp" /> C++ &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java" /> Java &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=py" /> Python &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=ts" /> TypeScript &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js" /> JavaScript  
 
-### 🔧 Backend & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nestjs,nodejs" />
-</p>
+<br/><br/>
 
-### 🗃️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
-</p>
+### 🧩 Frontend  
+<img src="https://skillicons.dev/icons?i=html" /> HTML &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" /> CSS &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=tailwind" /> Tailwind CSS &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=react" /> ReactJS &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nextjs" /> Next.js &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=figma" /> Figma  
 
-### 📦 DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,vercel,github,git,render" />
-</p>
+<br/><br/>
+
+### 🔧 Backend & Frameworks  
+<img src="https://skillicons.dev/icons?i=spring" /> Spring Boot &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nestjs" /> NestJS &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs" /> Node.js  
+
+<br/><br/>
+
+### 🗃️ Databases  
+<img src="https://skillicons.dev/icons?i=mysql" /> MySQL &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postgres" /> PostgreSQL &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb" /> MongoDB &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" /> SQL Server  
+
+<br/><br/>
+
+### 📦 DevOps & Tools  
+<img src="https://skillicons.dev/icons?i=docker" /> Docker &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" /> GitHub &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git" /> Git &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vercel" /> Vercel &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Render-2D3748?style=flat&logo=render&logoColor=white" /> Render  
+
+</div>
 
 ---
 
@@ -57,18 +79,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=VyBui13&theme=radical&hide_border=true" />
 </p>
-
----
-
-## 📂 Projects Preview
-
-| Name                          | Tech Stack                | Description                                    |
-| ----------------------------- | ------------------------- | ---------------------------------------------- |
-| **Student Management System** | Java, Swing, XML          | Offline app for student record management      |
-| **Restaurant App (ResToGo)**  | Spring, React, SQL Server | Multi-role restaurant booking system           |
-| **Rubik Timer**               | Next.js, Redux, MongoDB   | Scramble + timer + folder-based solve tracking |
-
-> 🧠 More in the pinned repos!
 
 ---
 
