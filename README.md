@@ -24,46 +24,77 @@
 <div align="center">
 
 ### 💡 Programming Languages  
-<img src="https://skillicons.dev/icons?i=c" /> C &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=cpp" /> C++ &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=java" /> Java &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=py" /> Python &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=ts" /> TypeScript &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=js" /> JavaScript  
+<div style="display: inline-block; padding: 8px; margin: 5px; background-color: #f1f1f1; border-radius: 10px; text-align: center; transition: 0.3s; width: 120px; color: #333;">
+  <img src="https://skillicons.dev/icons?i=c" width="40" />  
+  <div style="font-weight: bold; color: #333;">C</div>
+</div>
+
+<div style="display: inline-block; padding: 8px; margin: 5px; background-color: #e7e7e7; border-radius: 10px; text-align: center; transition: 0.3s; width: 120px; color: #333;">
+  <img src="https://skillicons.dev/icons?i=cpp" width="40" />  
+  <div style="font-weight: bold; color: #333;">C++</div>
+</div>
+
+<div style="display: inline-block; padding: 8px; margin: 5px; background-color: #f8e7c4; border-radius: 10px; text-align: center; transition: 0.3s; width: 120px; color: #333;">
+  <img src="https://skillicons.dev/icons?i=java" width="40" />  
+  <div style="font-weight: bold; color: #333;">Java</div>
+</div>
+
+<div style="display: inline-block; padding: 8px; margin: 5px; background-color: #ffed94; border-radius: 10px; text-align: center; transition: 0.3s; width: 120px; color: #333;">
+  <img src="https://skillicons.dev/icons?i=py" width="40" />  
+  <div style="font-weight: bold; color: #333;">Python</div>
+</div>
+
+<div style="display: inline-block; padding: 8px; margin: 5px; background-color: #f0f0f0; border-radius: 10px; text-align: center; transition: 0.3s; width: 120px; color: #333;">
+  <img src="https://skillicons.dev/icons?i=ts" width="40" />  
+  <div style="font-weight: bold; color: #333;">TypeScript</div>
+</div>
+
+<div style="display: inline-block; padding: 8px; margin: 5px; background-color: #bde0fe; border-radius: 10px; text-align: center; transition: 0.3s; width: 120px; color: #333;">
+  <img src="https://skillicons.dev/icons?i=js" width="40" />  
+  <div style="font-weight: bold; color: #333;">JavaScript</div>
+</div>
 
 <br/><br/>
 
 ### 🧩 Frontend  
-<img src="https://skillicons.dev/icons?i=html" /> HTML &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" /> CSS &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=tailwind" /> Tailwind CSS &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=react" /> ReactJS &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nextjs" /> Next.js &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=figma" /> Figma  
+<div style="display: inline-block; padding: 8px; margin: 5px; background-color: #f6f9fc; border-radius: 10px; text-align: center; transition: 0.3s; width: 120px; color: #333;">
+  <img src="https://skillicons.dev/icons?i=html" width="40" />  
+  <div style="font-weight: bold; color: #333;">HTML</div>
+</div>
 
-<br/><br/>
+<div style="display: inline-block; padding: 8px; margin: 5px; background-color: #f7f9f9; border-radius: 10px; text-align: center; transition: 0.3s; width: 120px; color: #333;">
+  <img src="https://skillicons.dev/icons?i=css" width="40" />  
+  <div style="font-weight: bold; color: #333;">CSS</div>
+</div>
 
-### 🔧 Backend & Frameworks  
-<img src="https://skillicons.dev/icons?i=spring" /> Spring Boot &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nestjs" /> NestJS &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nodejs" /> Node.js  
+<div style="display: inline-block; padding: 8px; margin: 5px; background-color: #38bdf8; border-radius: 10px; text-align: center; transition: 0.3s; width: 120px; color: #333;">
+  <img src="https://skillicons.dev/icons?i=tailwind" width="40" />  
+  <div style="font-weight: bold; color: #333;">Tailwind CSS</div>
+</div>
 
-<br/><br/>
+<div style="display: inline-block; padding: 8px; margin: 5px; background-color: #61dafb; border-radius: 10px; text-align: center; transition: 0.3s; width: 120px; color: #333;">
+  <img src="https://skillicons.dev/icons?i=react" width="40" />  
+  <div style="font-weight: bold; color: #333;">ReactJS</div>
+</div>
 
-### 🗃️ Databases  
-<img src="https://skillicons.dev/icons?i=mysql" /> MySQL &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=postgres" /> PostgreSQL &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mongodb" /> MongoDB &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" /> SQL Server  
+<div style="display: inline-block; padding: 8px; margin: 5px; background-color: #000000; border-radius: 10px; text-align: center; transition: 0.3s; width: 120px; color: #fff;">
+  <img src="https://skillicons.dev/icons?i=nextjs" width="40" />  
+  <div style="font-weight: bold; color: #fff;">Next.js</div>
+</div>
 
-<br/><br/>
+<div style="display: inline-block; padding: 8px; margin: 5px; background-color: #f5f5f5; border-radius: 10px; text-align: center; transition: 0.3s; width: 120px; color: #333;">
+  <img src="https://skillicons.dev/icons?i=figma" width="40" />  
+  <div style="font-weight: bold; color: #333;">Figma</div>
+</div>
 
-### 📦 DevOps & Tools  
-<img src="https://skillicons.dev/icons?i=docker" /> Docker &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" /> GitHub &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=git" /> Git &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vercel" /> Vercel &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Render-2D3748?style=flat&logo=render&logoColor=white" /> Render  
+<!-- Hover effect: Color change on hover -->
+<style>
+  div:hover {
+    background-color: #4f83cc;
+    color: white;
+    transition: 0.3s;
+  }
+</style>
 
 </div>
 
