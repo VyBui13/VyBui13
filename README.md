@@ -1,7 +1,22 @@
-<!-- Hiệu ứng typing -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Vy+Bui+%F0%9F%91%8B;A+Passionate+Fullstack+Developer" />
-</h1>
+<!-- Tiêu đề chính với hiệu ứng màu RGB -->
+<p align="center">
+  <svg viewBox="0 0 1000 60">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+      style="font-family: 'Fira Code', monospace; font-size: 28px; font-weight: bold; fill: url(#gradient)">
+      Hi, I'm Vy Bùi — Fullstack Developer
+    </text>
+    <defs>
+      <linearGradient id="gradient">
+        <stop offset="0%" stop-color="#ff00c8">
+          <animate attributeName="stop-color" values="#ff00c8;#00ffee;#ff00c8" dur="6s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#00ffee">
+          <animate attributeName="stop-color" values="#00ffee;#ff00c8;#00ffee" dur="6s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+  </svg>
+</p>
 
 <!-- Animation vui nhộn -->
 <p align="center">
@@ -11,15 +26,25 @@
 
 ---
 
-## ✨ About Me
+<h2 align="center">✨ About Me ✨</h2>
 
 🔭 I'm Vy Bùi — an aspiring **Fullstack Developer** passionate about crafting both powerful backends and stunning frontends.  
 🌱 Currently exploring: **Next.js**, **NestJS**, and **Spring Boot Microservices**  
-🎯 I'm driven by real-world problem solving, clean architecture, and building scalable web applications.
+🎯 I'm driven by real-world problem solving, clean architecture, and building scalable web applications.  
+📫 Contact me:
+
+<p align="center">
+  <a href="mailto:vybuoi0904@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vybuoi0904@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/v%E1%BB%B9-b%C3%B9i-undefined-719950273/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Vỹ%20Bùi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## ⚙️ Tech Stack
+<h2 align="center">⚙️ Tech Stack ⚙️</h2>
 
 ### 💡 Programming Languages
 <p align="center">
@@ -67,7 +92,7 @@
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats 📊</h2>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VyBui13&show_icons=true&theme=radical" />
@@ -80,10 +105,11 @@
 
 ---
 
-## 📫 Contact Me
+<h2 align="center">🐍 Contribution Snake Animation 🐍</h2>
 
-- 📧 Email: [vybuoi0904@gmail.com](mailto:vybuoi0904@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/vỹ-bùi](https://www.linkedin.com/in/v%E1%BB%B9-b%C3%B9i-undefined-719950273/)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VyBui13/VyBui13/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
