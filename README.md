@@ -83,7 +83,7 @@
 <h2 align="center">🐍 Contribution 🐍</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VyBui13/VyBui13/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/VyBui13/VyBui13/blob/output/github-snake-dark.svg" alt="snake gif" />
 </p>
 
 ---
