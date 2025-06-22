@@ -1,11 +1,11 @@
 <!-- Hiệu ứng typing -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Vy+Bui+%F0%9F%91%8B;A+Passionate+Fullstack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=600&size=30&color=6633FF&lines=Hi%2C+I'm+Vy+Bui+%F0%9F%91%8B;A+Passionate+Fullstack+Developer" />
 </h1>
 
 ---
 
-<h2 align="center">✨ About Me ✨</h2>
+<h2 align="center">✨ ABOUT ME ✨</h2>
 
 🔭 I'm Vy Bùi — an aspiring **Fullstack Developer** passionate about crafting both powerful backends and stunning frontends.  
 🌱 Currently exploring: **Next.js**, **NestJS**, and **Spring Boot Microservices**  
@@ -23,9 +23,10 @@
 
 ---
 
-<h2 align="center">⚙️ Tech Stack ⚙️</h2>
+<h2 align="center">⚙️ TECHSTACK ⚙️</h2>
 
-### 💡 Programming Languages
+<h3 align="center">💡 Programming Languages 💡</h3>
+<br/>
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -35,7 +36,8 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-### 🧩 Frontend
+<h3 align="center">🧩 Frontend 🧩</h3>
+<br/>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -45,14 +47,16 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-### 🔧 Backend & Frameworks
+<h3 align="center">🔧 Backend 🔧</h3>
+<br/>
 <p align="center">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
-### 🗃️ Databases
+<h3 align="center">🗃️ Databases 🗃️</h3>
+<br/>
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -60,7 +64,8 @@
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-### ⚙️ Tools & DevOps
+<h3 align="center">⚙️ Tools & DevOps ⚙️</h3>
+<br/>
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -71,7 +76,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats 📊</h2>
+<h2 align="center">📊 GITHUB STATS 📊</h2>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VyBui13&show_icons=true&theme=radical" />
@@ -80,7 +85,7 @@
 
 ---
 
-<h2 align="center">🐍 Contribution 🐍</h2>
+<h2 align="center">🐍 CONTRIBUTION 🐍</h2>
 
 <p align="center">
   <img src="https://github.com/VyBui13/VyBui13/blob/output/github-snake-dark.svg" alt="snake gif" />
